@@ -1,0 +1,8 @@
+2019-01-12T14:42:40+00:00 CRITICAL Uncaught Error: Call to undefined function wp_header() in E:\Programas\xampp\htdocs\lojateste\wp-content\themes\rest\index.php:1
+Stack trace:
+#0 E:\Programas\xampp\htdocs\lojateste\wp-includes\template-loader.php(74): include()
+#1 E:\Programas\xampp\htdocs\lojateste\wp-blog-header.php(19): require_once('E:\\Programas\\xa...')
+#2 E:\Programas\xampp\htdocs\lojateste\index.php(17): require('E:\\Programas\\xa...')
+#3 {main}
+  thrown, em E:\Programas\xampp\htdocs\lojateste\wp-content\themes\rest\index.php, na linha 1
+
